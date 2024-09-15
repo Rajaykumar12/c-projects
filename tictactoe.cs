@@ -7,7 +7,7 @@ while(!checkVictory() && numTurns != 9)
     Printgrid();
     if(IsPlayer1turn)
     {
-        Console.WriteLine("Player 1 turn");
+        Console.WriteLine("Player 2 turn");
     }
     else
     {
